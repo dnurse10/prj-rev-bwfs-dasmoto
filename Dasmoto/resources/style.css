@@ -1,0 +1,33 @@
+
+body {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url(../resources/image_heading.jpeg);
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+}
+
+.brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+strong {
+  color: blue;
+}
+
+.frames h2 {
+  background-color: lightcoral;
+}
+
+.paint h2 {
+  background-color: skyblue;
+}
